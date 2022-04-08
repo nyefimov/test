@@ -1,7 +1,8 @@
-testing line update for conflict
+
 untesting file
 commit test
 456
 789.
 Add line
 new branch line
+new GUI line
